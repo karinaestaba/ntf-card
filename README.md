@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/karinaestaba/ntf-card)
-- Live Site URL: [Add live site URL here](https://karinaestaba.github.io/ntf-card)
+- Solution URL: [Solución](https://github.com/karinaestaba/ntf-card)
+- Live Site URL: [Demo](https://karinaestaba.github.io/ntf-card)
 
 ## My process
 
